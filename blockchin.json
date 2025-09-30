@@ -1,0 +1,16 @@
+{
+    "name": "central-blockchain",
+    "version": "1.0.0",
+    "description": "Centralized Blockchain implementation (simple) with API endpoints",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2"
+    },
+    "engines": {
+      "node": ">=16"
+    }
+  }
+  
